@@ -1,5 +1,5 @@
 var gulp = require("gulp");
-var browserSync = require('browser-sync');
+var browserSync = require('browser-sync');  //
 
 gulp.task("sync1", function() {
   console.log("我是一个同步任务");
